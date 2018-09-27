@@ -1,7 +1,7 @@
 # futuramaTranscripts
 futurama via transcript data
 
-transcript data for the original 4 seasons of Futurama  from theinfosphere.org
+utilizing axios and cheerio to collect transcript data for the original 4 seasons of Futurama  from theinfosphere.org
 
 | speaker    | utterance count |
 |------------|-----------------|
